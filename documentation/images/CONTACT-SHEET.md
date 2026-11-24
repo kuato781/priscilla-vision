@@ -1,12 +1,12 @@
 # Priscilla Vision — Photo Contact Sheet
 
-The contact sheet is built from the **actual files in `documentation/product-images/`**. Original image files remain unchanged.
+The contact sheet uses **four actual project photographs** from `documentation/product-images/` — not generated mockups. The original image files remain unchanged.
 
-![Contact sheet of actual Priscilla Vision photos](00-contact-sheet.jpg)
+![Priscilla Vision four-photo contact sheet](00-contact-sheet.jpg)
 
-| Before | After / front | After / side |
-|:--:|:--:|:--:|
-| ![Original rubber-band arrangement](../product-images/ghetto_mount.jpg) | ![V2 monitor installed below the mirror](../product-images/priscilla_vision_1.jpg) | ![V2 adapter and monitor side profile](../product-images/priscilla_vision_2.jpg) |
-| [ghetto_mount.jpg](../product-images/ghetto_mount.jpg) | [priscilla_vision_1.jpg](../product-images/priscilla_vision_1.jpg) | [priscilla_vision_2.jpg](../product-images/priscilla_vision_2.jpg) |
+| Before: rubber bands | Printed V2 adapter | After: installed | After: side view |
+|:--:|:--:|:--:|:--:|
+| ![Original rubber-band mounting](../product-images/ghetto_mount.jpg) | ![Actual printed double-ball adapter](../product-images/adaptor.jpg) | ![Finished monitor mounted beneath mirror](../product-images/priscilla_vision_1.jpg) | ![Adapter and monitor side profile](../product-images/priscilla_vision_2.jpg) |
+| [ghetto_mount.jpg](../product-images/ghetto_mount.jpg) | [adaptor.jpg](../product-images/adaptor.jpg) | [priscilla_vision_1.jpg](../product-images/priscilla_vision_1.jpg) | [priscilla_vision_2.jpg](../product-images/priscilla_vision_2.jpg) |
 
-The contact sheet is retained as a static image for the published project documentation.
+The contact sheet is a static publication asset. No scripts or GitHub Actions workflows are required in this repository.

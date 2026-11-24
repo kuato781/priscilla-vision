@@ -77,7 +77,7 @@ The print was oriented **flat in the plane of the bent arm** to favor continuous
 
 ![Contact sheet of actual project photographs](documentation/images/00-contact-sheet.jpg)
 
-The [contact-sheet index](documentation/images/CONTACT-SHEET.md) links to all original photographs in `documentation/product-images/`. The image above is generated from **actual repo photos**, not AI mockups. The [generation script](scripts/make_contact_sheet.py) and [GitHub Actions workflow](.github/workflows/contact-sheet.yml) can rebuild and publish the sheet when product photos change.
+The [contact-sheet index](documentation/images/CONTACT-SHEET.md) links to all original photographs in `documentation/product-images/`. The image above is generated from **actual repo photos**, not AI mockups. The published contact sheet is a static documentation image; the original photographs are retained in the repository.
 
 ## AI-Assisted Development
 
@@ -93,7 +93,6 @@ This project was designed and documented with AI assistance, translating caliper
 | `documentation/assembly-instructions/` | Installation instructions and checks |
 | `documentation/product-images/` | Actual before, after and side-view photos |
 | `documentation/images/` | Contact-sheet index and generated contact sheet |
-| `scripts/` | Reproducible contact-sheet generator |
 
 ## Safety and Compatibility
 
